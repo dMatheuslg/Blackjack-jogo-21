@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -37,6 +33,10 @@
               "EditorCaption": " [Design]"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
@@ -44,9 +44,10 @@
               "RelativeDocumentMoniker": "BlackJackGame\\Form1.cs",
               "ToolTip": "C:\\Users\\FF\\source\\repos\\BlackJackGame\\BlackJackGame\\Form1.cs",
               "RelativeToolTip": "BlackJackGame\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswBsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T15:02:48.103Z"
+              "WhenOpened": "2024-11-07T15:02:48.103Z",
+              "EditorCaption": ""
             }
           ]
         }
